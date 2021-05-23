@@ -2229,11 +2229,13 @@ ul.social-icons >li a {
 .sp-module ul >li >a:hover {
   background: none;
 }
+/*
 .sp-module ul >li >a:before {
   font-family: FontAwesome;
   content: "\f105";
   margin-right: 8px;
 }
+*/
 .sp-module ul >li:last-child {
   border-bottom: none;
 }
